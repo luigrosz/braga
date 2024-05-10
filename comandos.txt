@@ -1,0 +1,8 @@
+git init                            // iniciar pasta git
+git status                          // ve o status
+git add                             // adiciona na stash
+ls -a                               // mostra pastas e arquivos escondidos
+git commit -m "adicionei comandos"  // coloca nomes do commit
+git status 2
+
+
